@@ -106,7 +106,7 @@ extern "C" {
 #endif
 
 #ifndef WIN32
-#include <mem.h> static long start_clock;
+#include <memory.h>
 #endif
 
 #endif
